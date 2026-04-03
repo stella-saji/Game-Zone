@@ -13,3 +13,6 @@ The games in this repo are:
   # 3. Tic_Tac_Toe.py :
   
    This is a classic two-player Tic Tac Toe game played in the console. Players take turns marking positions on a 3×3 grid, aiming to align three of their symbols in a row, column, or diagonal. The game includes win detection, input handling, and turn-based logic, making it a great project to practice lists, loops, and condition checking in Python.
+
+ # 4. Hangman.py :
+  This is a classic Hangman game where the player guesses a hidden word one letter at a time. The player has a limited number of attempts to guess the correct letters before the game ends. It tracks used letters, displays progress, and provides feedback for correct and incorrect guesses. This project helps practice string handling, loops, lists, and conditional logic in Python.
