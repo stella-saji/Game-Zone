@@ -16,3 +16,6 @@ The games in this repo are:
 
  # 4. Hangman.py :
   This is a classic Hangman game where the player guesses a hidden word one letter at a time. The player has a limited number of attempts to guess the correct letters before the game ends. It tracks used letters, displays progress, and provides feedback for correct and incorrect guesses. This project helps practice string handling, loops, lists, and conditional logic in Python.
+
+# 5. Number_memory_game.py:
+  This is a memory-based game where the player is shown a sequence of random numbers for a short time and must recall it correctly. With each level, the sequence length increases, making the game progressively more challenging. It demonstrates the use of loops, lists, randomness, and time delays in Python while improving memory and concentration skills.
