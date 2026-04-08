@@ -19,3 +19,5 @@ The games in this repo are:
 
 # 5. Number_memory_game.py:
   This is a memory-based game where the player is shown a sequence of random numbers for a short time and must recall it correctly. With each level, the sequence length increases, making the game progressively more challenging. It demonstrates the use of loops, lists, randomness, and time delays in Python while improving memory and concentration skills.
+# 6. Missionaries_and_Cannibals.py:
+  This is a classic logical puzzle game where three missionaries and three cannibals must cross a river using a boat that can carry at most two people. The challenge is to ensure that missionaries are never outnumbered by cannibals on either side, or they will be “eaten.” The game requires careful planning and logical thinking, demonstrating concepts like state validation, condition checking, and user interaction in Python.
