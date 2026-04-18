@@ -19,15 +19,21 @@ The games in this repo are:
 
 # 5. Number_memory_game.py:
   This is a memory based game where the player is shown a sequence of random numbers for a short time and must recall it correctly. With each level, the sequence length increases, making the game progressively more challenging. It demonstrates the use of loops, lists, randomness, and time delays in Python while improving memory and concentration skills.
+  
 # 6. Missionaries_and_Cannibals.py:
   This is a classic logical puzzle game where three missionaries and three cannibals must cross a river using a boat that can carry at most two people. The challenge is to ensure that missionaries are never outnumbered by cannibals on either side, or they will be “eaten.” The game requires careful planning and logical thinking, demonstrating concepts like state validation, condition checking, and user interaction in Python.
+  
 # 7. n_queens_game.py :
   This is an interactive console based implementation of the N-Queens problem where the player manually places queens on an N×N chessboard. The objective is to position all queens such that no two queens attack each other meaning no two share the same row, column, or diagonal.The game provides real-time feedback for each move, validating whether a queen can be safely placed. It includes input handling, board visualization, and rule enforcement, making it a great way to understand backtracking concepts and constraint-based problem solving in a hands-on manner.
+  
 # 8. Snake_game.py :
  This is a classic Snake game built using Pygame, where the player controls a snake that grows longer as it eats food. The objective is to collect as much food as possible without colliding with the walls or the snake’s own body. The game features real-time movement, collision detection, score tracking, and restart functionality, making it a great introduction to basic game development concepts in Python.
+ 
 # 9. Typing_Speed_game.py :
  This is a typing speed game where the player is given a random sentence to type as quickly and accurately as possible. The program measures the time taken, calculates typing speed in words per minute (WPM), and evaluates accuracy based on correctly typed characters. It demonstrates string comparison, time tracking, and performance metrics in Python.
+ 
 # 10. Pong_game.py:
  This is a classic Pong game built using Pygame, where the player controls a paddle to bounce a ball against an AI opponent. The objective is to prevent the ball from passing your side while trying to outplay the opponent. The game includes real time controls, basic AI movement, collision detection, and smooth gameplay, making it a great introduction to 2D game development in Python.
+ 
 # 11. Minesweeper.py :
  This is a console-based implementation of the classic Minesweeper game. The player selects cells on a grid while avoiding hidden mines. Each safe cell reveals the number of adjacent mines, helping the player make strategic decisions. The game ends when a mine is triggered or all safe cells are uncovered. It demonstrates grid-based logic, nested loops, and condition handling in Python.
