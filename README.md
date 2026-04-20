@@ -37,3 +37,6 @@ The games in this repo are:
  
 # 11. Minesweeper.py :
  This is a console-based implementation of the classic Minesweeper game. The player selects cells on a grid while avoiding hidden mines. Each safe cell reveals the number of adjacent mines, helping the player make strategic decisions. The game ends when a mine is triggered or all safe cells are uncovered. It demonstrates grid-based logic, nested loops, and condition handling in Python.
+ 
+# 12. 2048.py:
+ This is a console-based implementation of the popular 2048 game. The player moves tiles in four directions to combine matching numbers and reach higher values. Each move adds a new tile to the board, increasing the challenge. The game demonstrates grid manipulation, matrix rotation, merging logic, and game state handling in Python.
