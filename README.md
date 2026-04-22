@@ -40,3 +40,6 @@ The games in this repo are:
  
 # 12. 2048.py:
  This is a console-based implementation of the popular 2048 game. The player moves tiles in four directions to combine matching numbers and reach higher values. Each move adds a new tile to the board, increasing the challenge. The game demonstrates grid manipulation, matrix rotation, merging logic, and game state handling in Python.
+
+# 13. dice_simulator.py :
+ This is a simple dice simulator program that generates a random number between 1 and 6 to mimic rolling a dice. The user can choose to roll the dice multiple times or exit the game. It demonstrates the use of loops, conditional statements, and random number generation in Python.
